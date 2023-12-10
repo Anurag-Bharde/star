@@ -1,0 +1,21 @@
+Name	Blood Type	Give Birth	Can Fly	Live in Water	Class Attribute	Class
+human	warm	yes	no	no	mammals	Mammals
+python	cold	no	no	no	reptiles	NotMammals
+salmon	cold	no	no	yes	fishes	NotMammals
+whale	warm	yes	no	yes	mammals	Mammals
+frog	cold	no	no	sometimes	amphibians	NotMammals
+komodo	cold	no	no	no	reptiles	NotMammals
+bat	warm	yes	yes	no	mammals	Mammals
+piegon	warm	no	yes	no	birds	NotMammals
+cat	warm	yes	no	no	mammals	Mammals
+leopard shark	cold	yes	no	yes	fishes	NotMammals
+turtle	cold	no	no	sometimes	reptiles	NotMammals
+penguin	warm	no	no	sometimes	birds	NotMammals
+porcupine	warm	yes	no	no	mammals	Mammals
+eel	cold	no	no	yes	fishes	Not Mammals
+salamander	cold	no	no	sometimes	amphibians	NotMammals
+gila monster	cold	no	no	no	reptiles	NotMammals
+platypus	warm	no	no	no	mammals	Mammals
+owl	warm	no	yes	no	birds	NotMammals
+dolphin	warm	yes	no	yes	mammals	Mammals
+eagle	warm	no	yes	no	birds	NotMammals

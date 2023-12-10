@@ -1,0 +1,5 @@
+Information Gain ( Outlook| playGame ),0.940286
+Information Gain ( Temp| playGame ),0.940286
+Information Gain ( Humidity| playGame ),0.940286
+Information Gain ( Wind| playGame ),0.940286
+The selected root for splitting is: Outlook (Maximum Gain)
