@@ -1,0 +1,14 @@
+Day,Level,Routine,PlayGame,Value
+1,High,InDoor,No,90
+2,High,OutDoor,No,13
+3,High,InDoor,Yes,20
+4,High,InDoor,Yes,20
+5,Normal,InDoor,Yes,20
+6,Normal,OutDoor,No,13
+7,Normal,OutDoor,Yes,20
+8,High,InDoor,No,9
+9,Normal,InDoor,Yes,20
+10,Normal,InDoor,Yes,20
+11,Normal,OutDoor,Yes,20
+12,High,OutDoor,Yes,20
+13,High,InDoor,Yes,20

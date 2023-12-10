@@ -1,0 +1,15 @@
+Day,Level,Routine,PlayGame,Value
+1,High,InDoor,No,false
+2,High,OutDoor,No,false
+3,High,InDoor,Yes,true
+4,High,InDoor,Yes,true
+5,Normal,InDoor,Yes,true
+6,Normal,OutDoor,No,false
+7,Normal,OutDoor,Yes,true
+8,High,InDoor,No,false
+9,Normal,InDoor,Yes,true
+10,Normal,InDoor,Yes,true
+11,Normal,OutDoor,Yes,true
+12,High,OutDoor,Yes,true
+13,Normal,InDoor,Yes,true
+14,High,OutDoor,No,false

@@ -1,0 +1,15 @@
+A,B,C,D
+a,b,c,d
+a,,c,
+,b,,
+a,b,,d
+,,,d
+a,b,c,d
+a,,c,d
+,b,,d
+,b,,
+,,c,
+a,,c,
+,b,c,
+a,,,d
+a,b,,

@@ -1,0 +1,9 @@
+Class,WorkPlace,t-weight,d-weight
+Dancer,India,20%,10%
+Dancer,USA,80%,40%
+Musician,India,60%,90%
+Musician,USA,40%,60%
+Dancer,Total,100%,25%
+Musician,Total,100%,75%
+Total,India,50%,100%
+Total,USA,50%,100%
